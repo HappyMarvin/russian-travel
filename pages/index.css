@@ -1,2 +1,9 @@
 @import "../vendor/normalize.css";
 @import "../fonts/fonts.css";
+@import "../blocks/page/page.css";
+@import "../blocks/page/__container/page__conteiner.css";
+@import "../blocks/header/header.css";
+@import "../blocks/header/__logo/header__logo.css";
+@import "../blocks/header/__lang/header__lang.css";
+@import "../blocks/header/__lang/_active/header__lang_active.css";
+@import "../blocks/header/__lang-switch/header__lang-switch.css";
