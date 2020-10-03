@@ -1,3 +1,22 @@
 .places__url {
-  
+  color: #fff;
+  align-self: end;
+  font-size: 18px;
+  line-height: 1.22;
+  position: relative;
+  transition: opacity 0.5s;
+}
+
+.places__url:before {
+  content: 'URL';
+  position: absolute;
+  top: -28px;
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  color: #aaa;
+}
+
+.places__url:hover {
+  opacity: .8;
 }

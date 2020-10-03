@@ -22,3 +22,10 @@
 @import "../blocks/intro/__text/intro__text.css";
 @import "../blocks/photo-gallery/photo-gallery.css";
 @import "../blocks/photo-gallery/__item/photo-gallery__item.css";
+@import "../blocks/places/places.css";
+@import "../blocks/places/__text/places__text.css";
+@import "../blocks/places/__image/places__image.css";
+@import "../blocks/places/__paragraph/places__paragraph.css";
+@import "../blocks/places/__place/places__place.css";
+@import "../blocks/places/__url/places__url.css";
+@import "../blocks/places/__title/places__title.css";

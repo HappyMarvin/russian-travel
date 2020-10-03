@@ -1,3 +1,11 @@
 .places__place {
-
+  margin: 0 auto 80px auto;
+  display: grid;
+  width: 100%;
+  grid-template-columns: minmax(260px, 460px) minmax(260px, 484px);
+  column-gap: 40px;
+  row-gap: 48px;
+}
+.places__place:last-of-type {
+  margin: 0 auto;
 }
