@@ -29,3 +29,8 @@
 @import "../blocks/places/__place/places__place.css";
 @import "../blocks/places/__url/places__url.css";
 @import "../blocks/places/__title/places__title.css";
+@import "../blocks/cover/cover.css";
+@import "../blocks/cover/__title/cover__title.css";
+@import "../blocks/cover/__image/cover__image.css";
+@import "../blocks/cover/__subtitle/cover__subtitle.css";
+@import "../blocks/cover/__link/cover__link.css";
