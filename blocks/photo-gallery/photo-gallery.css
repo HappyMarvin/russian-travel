@@ -3,3 +3,9 @@
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   gap: 16px;
 }
+
+@media screen and (max-width: 678px) {
+  .photo-gallery {
+    gap: 12px;
+  }
+}
