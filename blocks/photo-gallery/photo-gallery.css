@@ -4,7 +4,7 @@
   gap: 16px;
 }
 
-@media screen and (max-width: 678px) {
+@media screen and (max-width: 700px) {
   .photo-gallery {
     gap: 12px;
   }

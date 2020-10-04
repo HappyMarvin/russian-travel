@@ -5,6 +5,7 @@
   width: 100%;
   position: absolute;
   bottom: 1px;
+  left: 0;
 }
 
 .header__lang_active:hover {

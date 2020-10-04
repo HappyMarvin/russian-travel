@@ -10,7 +10,7 @@
   opacity: .8;
 }
 
-@media screen and (max-width: 678px) {
+@media screen and (max-width: 700px) {
   .header__lang {
     font-size: 18px;
   }
