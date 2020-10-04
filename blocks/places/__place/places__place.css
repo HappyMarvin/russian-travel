@@ -9,3 +9,10 @@
 .places__place:last-of-type {
   margin: 0 auto;
 }
+
+@media screen and (max-width: 1024px) {
+  .places__place {
+    grid-template-columns: minmax(260px, 440px) minmax(260px, 456px);
+    column-gap: 32px;
+  }
+}
