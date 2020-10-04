@@ -2,6 +2,7 @@
 @import "../fonts/fonts.css";
 @import "../blocks/page/page.css";
 @import "../blocks/page/__lead/page__lead.css";
+@import "../blocks/page/__intro/page__intro.css";
 @import "../blocks/page/__section/page__section.css";
 @import "../blocks/page/__container/page__conteiner.css";
 @import "../blocks/page/__photo-gallery/page__photo-gallery.css";
