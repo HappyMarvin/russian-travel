@@ -5,3 +5,14 @@
   font-size: 72px;
   line-height: 1.056;
 }
+
+@media screen and (max-width: 900px) {
+  .places__title {
+    font-size: 42px;
+    line-height: 1.1;
+  }
+  .places__title:nth-{
+    word-spacing: 30px;
+    color: red;
+  }
+}

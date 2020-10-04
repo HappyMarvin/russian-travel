@@ -5,12 +5,13 @@
   line-height: 1.22;
   position: relative;
   transition: opacity 0.5s;
+  padding-bottom: 6px;
 }
 
 .places__url:before {
   content: 'URL';
   position: absolute;
-  top: -28px;
+  top: -20px;
   font-weight: 500;
   font-size: 12px;
   letter-spacing: 0.2em;
