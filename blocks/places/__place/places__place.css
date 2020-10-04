@@ -24,3 +24,12 @@
     margin: 0 auto 72px auto;
   }
 }
+
+@media screen and (max-width: 678px) {
+  .places__place {
+    grid-template-columns: minmax(min-content, 100%);
+    column-gap: 28px;
+    margin: 0 auto 64px auto;
+    row-gap: 32px;
+  }
+}

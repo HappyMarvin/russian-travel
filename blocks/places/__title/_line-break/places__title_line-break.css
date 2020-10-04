@@ -3,3 +3,8 @@
     word-spacing: 30px;
   }
 }
+@media screen and (max-width: 678px) {
+  .places__title_line-break {
+    word-spacing: normal;
+  }
+}
