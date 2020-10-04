@@ -6,3 +6,9 @@
 .footer__link-item:last-of-type {
   margin: 0;
 }
+
+@media screen and (max-width: 678px) {
+  .footer__link-item {
+    margin: 0 0 29px 0;
+  }
+}

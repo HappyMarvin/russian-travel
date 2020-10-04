@@ -2,4 +2,8 @@
   margin: 82px auto 0 auto;
 }
 
-
+@media screen and (max-width: 678px) {
+  .page__footer {
+    margin: 58px auto 0 auto;
+  }
+}
