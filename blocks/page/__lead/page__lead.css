@@ -7,3 +7,9 @@
     margin: 57px auto 0 auto;
   }
 }
+
+@media screen and (max-width: 678px){
+  .page__lead {
+    margin: 51px auto 0 auto;
+  }
+}

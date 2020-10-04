@@ -3,3 +3,9 @@
   padding: 0;
   max-width: 690px;
 }
+
+@media screen and (max-width: 678px) {
+  .intro__text {
+    margin: 38px 0 0 0;
+  }
+}
