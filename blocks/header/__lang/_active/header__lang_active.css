@@ -1,9 +1,13 @@
 .header__lang_active:after {
   content: '';
   border: 1px #ffffff solid;
-  width: 20px;
   display: block;
   width: 100%;
   position: absolute;
   bottom: 1px;
+}
+
+.header__lang_active:hover {
+  cursor: auto;
+  opacity: 1;
 }

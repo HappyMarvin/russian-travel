@@ -10,8 +10,8 @@
 @import "../blocks/header/header.css";
 @import "../blocks/header/__logo/header__logo.css";
 @import "../blocks/header/__lang/header__lang.css";
-@import "../blocks/header/__lang/_active/header__lang_active.css";
 @import "../blocks/header/__lang-switch/header__lang-switch.css";
+@import "../blocks/header/__lang/_active/header__lang_active.css";
 @import "../blocks/lead/lead.css";
 @import "../blocks/lead/__title/lead__title.css";
 @import "../blocks/lead/__image/lead__image.css";

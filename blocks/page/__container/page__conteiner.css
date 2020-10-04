@@ -9,3 +9,8 @@
     padding: 28px 24px 24px 24px;
   }
 }
+@media screen and (max-width: 678px) {
+  .page__container {
+    padding: 16px 16px 24px 16px;
+  }
+}
