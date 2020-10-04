@@ -15,3 +15,10 @@
     margin-left: -24px;
   }
 }
+
+@media screen and (max-width: 678px) {
+  .cover {
+    margin-right: -16px;
+    margin-left: -16px;
+  }
+}
