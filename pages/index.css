@@ -37,8 +37,8 @@
 @import "../blocks/cover/__image/cover__image.css";
 @import "../blocks/cover/__subtitle/cover__subtitle.css";
 @import "../blocks/cover/__link/cover__link.css";
-@import "../blocks/cover/__content/cover__content.css";
 @import "../blocks/cover/__inner-wrapper/cover__inner-wrapper.css";
+@import "../blocks/cover/__content/cover__content.css";
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/__link/footer__link.css";
 @import "../blocks/footer/__links/footer__links.css";
