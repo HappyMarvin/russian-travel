@@ -4,9 +4,10 @@
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
+  box-sizing: border-box;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (min-width: 1280px) {
   .cover {
     max-height: 740px;
   }
