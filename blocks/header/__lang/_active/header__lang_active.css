@@ -1,11 +1,5 @@
-.header__lang_active:after {
-  content: '';
-  border: 1px #ffffff solid;
-  display: block;
-  width: 100%;
-  position: absolute;
-  bottom: 1px;
-  left: 0;
+.header__lang_active {
+  text-decoration: underline;
 }
 
 .header__lang_active:hover {

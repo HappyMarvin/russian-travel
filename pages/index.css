@@ -6,7 +6,7 @@
 @import "../blocks/page/__section/page__section.css";
 @import "../blocks/page/__container/page__conteiner.css";
 @import "../blocks/page/__photo-gallery/page__photo-gallery.css";
-@import "../blocks/page/__foter/page__footer.css";
+@import "../blocks/page/__footer/page__footer.css";
 @import "../blocks/header/header.css";
 @import "../blocks/header/__logo/header__logo.css";
 @import "../blocks/header/__lang/header__lang.css";
@@ -37,6 +37,7 @@
 @import "../blocks/cover/__image/cover__image.css";
 @import "../blocks/cover/__subtitle/cover__subtitle.css";
 @import "../blocks/cover/__link/cover__link.css";
+@import "../blocks/cover/__content/cover__content.css";
 @import "../blocks/cover/__inner-wrapper/cover__inner-wrapper.css";
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/__link/footer__link.css";
