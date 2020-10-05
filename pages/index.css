@@ -21,6 +21,7 @@
 @import "../blocks/intro/__title/intro__title.css";
 @import "../blocks/intro/__list-item/intro__list-item.css";
 @import "../blocks/intro/__list/intro__list.css";
+@import "../blocks/intro/__number/intro__number.css";
 @import "../blocks/intro/__text/intro__text.css";
 @import "../blocks/photo-gallery/photo-gallery.css";
 @import "../blocks/photo-gallery/__item/photo-gallery__item.css";
