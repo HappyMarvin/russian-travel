@@ -1,0 +1,74 @@
+@keyframes train-route {
+  from {
+    stroke-dasharray: 1382;
+  }
+  to {
+    stroke-dasharray: 2764;
+  }
+}
+
+@keyframes city-show {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.train-route {
+  stroke-dasharray: 1382;
+  animation: train-route 10s 2s linear forwards;
+}
+
+.animation__city {
+  opacity: 0;
+}
+
+.animation__city_order_1 {
+  animation: city-show .7s 1.5s ease-in forwards;
+}
+
+.animation__city_order_2 {
+  animation: city-show .7s 2.5s ease-in forwards;
+}
+
+.animation__city_order_3 {
+  animation: city-show .7s 3.7s ease-in forwards;
+}
+
+.animation__city_order_4 {
+  animation: city-show .7s 4.1s ease-in forwards;
+}
+
+.animation__city_order_5 {
+  animation: city-show .7s 5.1s ease-in forwards;
+}
+
+.animation__city_order_6 {
+  animation: city-show .7s 5.9s ease-in forwards;
+}
+
+.animation__city_order_7 {
+  animation: city-show .7s 7.3s ease-in forwards;
+}
+
+.animation__city_order_8 {
+  animation: city-show .7s 7.9s ease-in forwards;
+}
+
+.animation__city_order_9 {
+  animation: city-show .7s 8.3s ease-in forwards;
+}
+
+.animation__city_order_10 {
+  animation: city-show .7s 9.1s ease-in forwards;
+}
+
+.animation__city_order_11 {
+  animation: city-show .7s 11s ease-in forwards;
+}
+
+.animation__city_order_12 {
+  animation: city-show .7s 11.5s ease-in forwards;
+}
