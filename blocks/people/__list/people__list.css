@@ -1,0 +1,8 @@
+.people__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  column-gap: 19px;
+  row-gap: 47px;
+}

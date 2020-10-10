@@ -51,6 +51,14 @@
 @import "../blocks/space/__video-title/space__video-title.css";
 @import "../blocks/space/space__subtitle/space__subtitle.css";
 @import "../blocks/space/__inner-wrapper/space__inner-wrapper.css";
+@import "../blocks/people/people.css";
+@import "../blocks/people/__item/people__item.css";
+@import "../blocks/people/__list/people__list.css";
+@import "../blocks/people/__name/people__name.css";
+@import "../blocks/people/__photo/people__photo.css";
+@import "../blocks/people/__quote/people__quote.css";
+@import "../blocks/people/__subtitle/people__subtitle.css";
+@import "../blocks/people/__title/people__title.css";
 @import "../blocks/cover/cover.css";
 @import "../blocks/cover/__title/cover__title.css";
 @import "../blocks/cover/__subtitle/cover__subtitle.css";
