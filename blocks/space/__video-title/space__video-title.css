@@ -1,7 +1,22 @@
 .space__video-title {
+  max-width: 322px;
   padding: 0;
   margin: 12px 0 18px 0;
   font-weight: 900;
   font-size: 36px;
   line-height: 1.18;
+}
+
+@media screen and (max-width: 1023px){
+  .space__video-title {
+    font-size: 24px;
+    line-height: 1.08;
+    margin: 8px 0 12px 0;
+  }
+}
+
+@media screen and (max-width: 374px){
+  .space__video-title {
+    margin: 8px 0 4px 0;
+  }
 }

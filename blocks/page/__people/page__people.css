@@ -1,3 +1,15 @@
 .page__people {
   margin-top: 102px;
 }
+
+@media screen and (max-width: 900px){
+  .page__people {
+    margin-top: 95px;
+  }
+}
+
+@media screen and (max-width: 700px){
+  .page__people {
+    margin-top: 64px;
+  }
+}

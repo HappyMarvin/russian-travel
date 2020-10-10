@@ -2,4 +2,9 @@
   width: 41px;
   height: 41px;
   cursor: pointer;
+  transition: fill-opacity .4s;
+}
+
+.space__video-play:hover {
+  fill-opacity: .8;
 }

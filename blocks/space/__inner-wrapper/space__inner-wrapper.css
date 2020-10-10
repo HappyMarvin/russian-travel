@@ -1,3 +1,9 @@
 .space__inner-wrapper {
   padding-top: 55.4%;
 }
+
+@media screen and (max-width: 374px){
+  .space__inner-wrapper {
+    padding-top: 66.67%;
+  }
+}

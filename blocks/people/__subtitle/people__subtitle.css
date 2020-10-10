@@ -6,3 +6,17 @@
   line-height: 1.45;
   text-align: center;
 }
+
+@media screen and (max-width: 900px){
+  .people__subtitle {
+    margin: 31px auto 56px auto;
+  }
+}
+
+@media screen and (max-width: 700px){
+  .people__subtitle {
+    margin: 16px auto 24px auto;
+    font-size: 16px;
+    line-height: 1.43;
+  }
+}

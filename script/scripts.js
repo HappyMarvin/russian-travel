@@ -4,21 +4,18 @@ function vim (container) {
     if (!container) {
       return;
     }
-    var buttonPlay = container.querySelector('.space__video-play');
-    var videoOverlay = container.querySelector('.space__video-overlay');
-    var videoIframe = container.querySelector('iframe');
-    var player = new Vimeo.Player(videoIframe);
+    let buttonPlay = container.querySelector('.space__video-play');
+    let videoOverlay = container.querySelector('.space__video-overlay');
+    let videoIframe = container.querySelector('iframe');
+    let player = new Vimeo.Player(videoIframe);
     buttonPlay.addEventListener('click', function () {
-      videoOverlay.classList.add('hide');
-      console.log(videoOverlay)
       player.play();
       player.on('play', function () {
-        videoOverlay.classList.add('hide');
+        videoOverlay.classList.add('video__hide');
       });
       player.on('pause', function () {
-        videoOverlay.classList.remove('hide');
+        videoOverlay.classList.remove('video__hide');
       });
-      console.log(11);
     });
   });
 };

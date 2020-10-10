@@ -15,6 +15,18 @@
   justify-content: space-between;
 }
 
-.hide {
+.video__hide {
   display: none;
+}
+
+@media screen and (max-width: 1023px){
+  .space__video-overlay {
+    padding: 24px;
+  }
+}
+
+@media screen and (max-width: 374px){
+  .space__video-overlay {
+    padding: 16px;
+  }
 }

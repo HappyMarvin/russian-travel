@@ -3,6 +3,18 @@
   padding: 0;
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  gap: 18px;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  column-gap: 18px;
+  row-gap: 8px;
+}
+
+@media screen and (max-width: 1023px){
+  .space__video-list {
+    column-gap: 16px;
+  }
+}
+@media screen and (max-width: 374px){
+  .space__video-list {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  }
 }
