@@ -1,3 +1,4 @@
 .space__video-overlay_content_kamchatka {
-  
+  background: url("../../../../images/space-kamchatka.jpg");
+  background-size: cover;
 }

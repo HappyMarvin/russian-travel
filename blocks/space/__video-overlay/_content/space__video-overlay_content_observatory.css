@@ -1,3 +1,4 @@
 .space__video-overlay_content_observatory {
-  
+  background: url("../../../../images/space-observatory.jpg") no-repeat;
+  background-size: cover;
 }

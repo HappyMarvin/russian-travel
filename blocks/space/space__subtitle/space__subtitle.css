@@ -1,3 +1,8 @@
 .space__subtitle {
-  
+  padding: 0;
+  margin: 49px auto 72px auto;
+  max-width: 640px;
+  font-size: 24px;
+  line-height: 1.45;
+  text-align: center;
 }

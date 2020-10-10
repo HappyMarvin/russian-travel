@@ -1,3 +1,8 @@
-.space_title {
-  
+.space__title {
+  max-width: 800px;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 1.08;
+  text-align: center;
+  margin: 0 auto;
 }
